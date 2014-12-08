@@ -1,0 +1,3 @@
+carolus.magnus@rwth-aachen.de,5,5,5,5
+maria.stuart@my-head-is-my-own.gov.uk,5,3,4
+veni.vidi.bibi@haskell.tum.de,1,2,3,4
